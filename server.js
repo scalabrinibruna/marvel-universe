@@ -1,7 +1,8 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db/db.json');
-const middlewares = jsonServer.defaults({ static: './public' });
+const middlewares = jsonServer.defaults();
+const path = require('path');
 
 server.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
@@ -13,12 +14,10 @@ server.use((req, res, next) => {
   next();
 });
 
+server.use(require('express').static(path.join(__dirname, 'public')));
 server.use(middlewares);
 server.use(router);
 
 server.listen(process.env.PORT || 3000, () => {
-  console.log('');
-  console.log('  Marvel Universe rodando!');
-  console.log('  Acesse: http://localhost:3000');
-  console.log('');
+  console.log('Marvel Universe rodando!');
 });

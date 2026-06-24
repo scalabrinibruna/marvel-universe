@@ -136,29 +136,27 @@ function getUsuarioLogado() {
 
 document.addEventListener("DOMContentLoaded", () => {
 
-    document.getElementById("login-usuario").addEventListener("keydown", (e) => {
-        if (e.key === "Enter") {
-            fazerLogin();
-        }
-    });
-
-    document.getElementById("login-senha").addEventListener("keydown", (e) => {
-        if (e.key === "Enter") {
-            fazerLogin();
-        }
-    });
-
-    [
-        "cadastro-nome",
-        "cadastro-email",
-        "cadastro-login",
-        "cadastro-senha"
-    ].forEach((id) => {
-        document.getElementById(id).addEventListener("keydown", (e) => {
-            if (e.key === "Enter") {
-                fazerCadastro();
-            }
+    const loginInput = document.getElementById("login-usuario");
+    if (loginInput) {
+        loginInput.addEventListener("keydown", (e) => {
+            if (e.key === "Enter") fazerLogin();
         });
+    }
+
+    const senhaInput = document.getElementById("login-senha");
+    if (senhaInput) {
+        senhaInput.addEventListener("keydown", (e) => {
+            if (e.key === "Enter") fazerLogin();
+        });
+    }
+
+    ["cadastro-nome", "cadastro-email", "cadastro-login", "cadastro-senha"].forEach((id) => {
+        const el = document.getElementById(id);
+        if (el) {
+            el.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") fazerCadastro();
+            });
+        }
     });
 
 });
