@@ -2,6 +2,10 @@
 
 Aplicação web sobre o universo cinematográfico da Marvel (MCU), desenvolvida como projeto acadêmico na PUC Minas.
 
+🌐 **Deploy:** [marvel-universe-dqub.onrender.com](https://marvel-universe-dqub.onrender.com)
+ 
+![Preview do projeto](public/assets/img/marvel_demo.png)
+
 ## Funcionalidades
 
 - **Catálogo completo** de filmes e séries do MCU com pesquisa em tempo real
@@ -48,13 +52,12 @@ marvel-universe/
 │   ├── login.html
 │   └── quiz.html
 │       
-├── server.js
 ├── package-lock.json
 ├── package.json
 └── server.js
 ```
 
-## ▶Como rodar localmente
+## Como rodar localmente
 
 **Pré-requisitos:** Node.js instalado
 
