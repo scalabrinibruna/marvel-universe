@@ -1,4 +1,4 @@
-const API = "http://localhost:3000";
+const API = "https://marvel-universe-dqub.onrender.com";
 
 function mostrarLogin() {
     document.getElementById("tela-login").classList.remove("hidden");
