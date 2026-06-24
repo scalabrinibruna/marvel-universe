@@ -29,6 +29,7 @@ async function init() {
   iniciarPesquisa();
   atualizarMenu();
   montarGraficosHome();
+  esconderLoading();
 }
 
 
@@ -499,3 +500,11 @@ function rolarDireita(id) { document.getElementById(id).scrollBy({ left: 500, be
 function rolarEsquerda(id) { document.getElementById(id).scrollBy({ left: -500, behavior: "smooth" }); }
 
 init();
+
+function esconderLoading() {
+    const loading = document.getElementById("loading-screen");
+    if (loading) {
+        loading.classList.add("hide");
+        setTimeout(() => loading.remove(), 500);
+    }
+}
