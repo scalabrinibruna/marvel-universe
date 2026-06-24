@@ -1,0 +1,2177 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Capitão América: O Primeiro Vingador",
+      "imagem": "assets/img/imagensf/capitao1.webp",
+      "tipo": "Filme",
+      "lancamento": "07/2011",
+      "duracao": "2h 4min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 1",
+      "em_breve": false,
+      "sinopse": "Um jovem fraco demais para ir à guerra, mas corajoso demais para ficar em casa. Steve Rogers recebe o soro do super-soldado e se torna o Capitão América, o primeiro herói da história, nascido no meio da Segunda Guerra Mundial.",
+      "personagens": [
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Bucky Barnes",
+          "imagem": "assets/img/imagensp/bucky.jpg"
+        },
+        {
+          "nome": "Peggy Carter",
+          "imagem": "assets/img/imagensp/peggy.jpg"
+        },
+        {
+          "nome": "Howard Stark",
+          "imagem": "assets/img/imagensp/howard.jpg"
+        },
+        {
+          "nome": "Caveira Vermelha",
+          "imagem": "assets/img/imagensp/caveira.webp"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Capitã Marvel",
+      "imagem": "assets/img/imagensf/capitanamarvel.jpg",
+      "tipo": "Filme",
+      "lancamento": "03/2019",
+      "duracao": "2h 3min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "1995. Uma guerreira alienígena pousa na Terra sem saber quem ela realmente é. Enquanto persegue fragmentos de uma memória apagada, Carol Danvers descobre uma verdade que vai mudar tudo e revelar o herói mais poderoso do universo.",
+      "personagens": [
+        {
+          "nome": "Carol Danvers",
+          "imagem": "assets/img/imagensp/capitamarvel.webp"
+        },
+        {
+          "nome": "Nick Fury",
+          "imagem": "assets/img/imagensp/nick.webp"
+        },
+        {
+          "nome": "Maria Rambeau",
+          "imagem": "assets/img/imagensp/maria.webp"
+        },
+        {
+          "nome": "Goose",
+          "imagem": "assets/img/imagensp/goose.jpg"
+        },
+        {
+          "nome": "Talos",
+          "imagem": "assets/img/imagensp/talos.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "O Incrível Hulk",
+      "imagem": "assets/img/imagensf/hulk.webp",
+      "tipo": "Filme",
+      "lancamento": "06/2008",
+      "duracao": "1h 52min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 1",
+      "em_breve": false,
+      "sinopse": "Bruce Banner vive em fuga do exército, do mundo e de si mesmo. Cada batida do coração pode liberar o monstro que carrega por dentro. Quando um inimigo ainda mais destrutivo surge, a única saída é deixar o Hulk tomar conta.",
+      "personagens": [
+        {
+          "nome": "Bruce Banner",
+          "imagem": "assets/img/imagensp/hulk.webp"
+        },
+        {
+          "nome": "Betty Ross",
+          "imagem": "assets/img/imagensp/betty.jpg"
+        },
+        {
+          "nome": "General Ross",
+          "imagem": "assets/img/imagensp/ross.avif"
+        },
+        {
+          "nome": "Abominável",
+          "imagem": "assets/img/imagensp/abominavel.png"
+        },
+        {
+          "nome": "Samuel Sterns",
+          "imagem": "assets/img/imagensp/samuel.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Homem de Ferro",
+      "imagem": "assets/img/imagensf/homemferro.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2008",
+      "duracao": "2h 6min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 1",
+      "em_breve": false,
+      "sinopse": "Preso em uma caverna com apenas sucata e sua inteligência, o bilionário Tony Stark constrói uma armadura para escapar. O que ele não sabia é que estava inventando algo muito maior: o futuro dos Vingadores.",
+      "personagens": [
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Pepper Pots",
+          "imagem": "assets/img/imagensp/pepper.jpg"
+        },
+        {
+          "nome": "James Rhodes",
+          "imagem": "assets/img/imagensp/rhodes.webp"
+        },
+        {
+          "nome": "Yinsen",
+          "imagem": "assets/img/imagensp/yinsen.webp"
+        },
+        {
+          "nome": "Obadiah Stane",
+          "imagem": "assets/img/imagensp/obadiah.webp"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Homem de Ferro 2",
+      "imagem": "assets/img/imagensf/homemferro2.jpg",
+      "tipo": "Filme",
+      "lancamento": "05/2010",
+      "duracao": "2h 4min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "em_breve": false,
+      "sinopse": "A armadura que o salvou agora está o matando. Com o governo querendo o traje, rivais querendo sua destruição e um inimigo vindo de um passado que ele nem conhecia, Tony Stark descobre que ser herói tem um preço alto.",
+      "personagens": [
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Pepper Pots",
+          "imagem": "assets/img/imagensp/pepper.jpg"
+        },
+        {
+          "nome": "Viúva Negra",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Nick Fury",
+          "imagem": "assets/img/imagensp/nick.webp"
+        },
+        {
+          "nome": "Ivan Vanko",
+          "imagem": "assets/img/imagensp/ivan.webp"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Thor",
+      "imagem": "assets/img/imagensf/thor.jpg",
+      "tipo": "Filme",
+      "lancamento": "05/2011",
+      "duracao": "1h 55min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 1",
+      "em_breve": false,
+      "sinopse": "O deus do trovão mais arrogante dos nove reinos é banido para a Terra sem seus poderes. Entre humanos comuns e o irmão que trama nas sombras, Thor precisa aprender o que nenhum deus nasce sabendo: humildade.",
+      "personagens": [
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Loki",
+          "imagem": "assets/img/imagensp/loki.jpg"
+        },
+        {
+          "nome": "Odin",
+          "imagem": "assets/img/imagensp/odin.webp"
+        },
+        {
+          "nome": "Heimdall",
+          "imagem": "assets/img/imagensp/heimdall.webp"
+        },
+        {
+          "nome": "Jane Foster",
+          "imagem": "assets/img/imagensp/jane.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Os Vingadores",
+      "imagem": "assets/img/imagensf/vingadores.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2012",
+      "duracao": "1h 52min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 1",
+      "em_breve": false,
+      "sinopse": "Loki quer conquistar a Terra. Nick Fury reúne um grupo que mal consegue estar na mesma sala e pede que eles salvem o mundo. A primeira vez que os heróis se uniram. Uma das maiores batalhas do universo.",
+      "personagens": [
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Hulk",
+          "imagem": "assets/img/imagensp/hulkv.webp"
+        },
+        {
+          "nome": "Natasha Romanoff",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Clint Barton",
+          "imagem": "assets/img/imagensp/gaviao.jpg"
+        },
+        {
+          "nome": "Nick Fury",
+          "imagem": "assets/img/imagensp/nick.webp"
+        },
+        {
+          "nome": "Loki",
+          "imagem": "assets/img/imagensp/loki.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Homem de Ferro 3",
+      "imagem": "assets/img/imagensf/homemferro3.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2013",
+      "duracao": "2h 10min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "em_breve": false,
+      "sinopse": "Tony Stark está em pedaços. Depois das batalhas em Nova York, os pesadelos não param. Mas quando um terrorista misterioso ataca o que ele ama, precisa provar que o homem vale mais que a máquina.",
+      "personagens": [
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Pepper Pots",
+          "imagem": "assets/img/imagensp/pepper.jpg"
+        },
+        {
+          "nome": "Máquina de Combate",
+          "imagem": "assets/img/imagensp/rhodes.webp"
+        },
+        {
+          "nome": "Aldrich Killian",
+          "imagem": "assets/img/imagensp/aldrich.jpg"
+        },
+        {
+          "nome": "Mandarim",
+          "imagem": "assets/img/imagensp/mandarim.avif"
+        },
+        {
+          "nome": "Happy Hogan",
+          "imagem": "assets/img/imagensp/happy.webp"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Thor: O Mundo Sombrio",
+      "imagem": "assets/img/imagensf/thor2.jpg",
+      "tipo": "Filme",
+      "lancamento": "11/2013",
+      "duracao": "1h 52min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "em_breve": false,
+      "sinopse": "Um vilão das trevas quer usar o Éter para mergulhar todos os nove reinos na escuridão eterna. Thor precisa confiar no último aliado que esperaria: seu próprio irmão traiçoeiro.",
+      "personagens": [
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Jane Foster",
+          "imagem": "assets/img/imagensp/jane.jpg"
+        },
+        {
+          "nome": "Loki",
+          "imagem": "assets/img/imagensp/loki.jpg"
+        },
+        {
+          "nome": "Odin",
+          "imagem": "assets/img/imagensp/odin.webp"
+        },
+        {
+          "nome": "Heimdall",
+          "imagem": "assets/img/imagensp/heimdall.webp"
+        },
+        {
+          "nome": "Malekith",
+          "imagem": "assets/img/imagensp/malekith.avif"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "Capitão América: O Soldado Invernal",
+      "imagem": "assets/img/imagensf/capitao2.webp",
+      "tipo": "Filme",
+      "lancamento": "03/2014",
+      "duracao": "2h 16min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "em_breve": false,
+      "sinopse": "Steve Rogers acreditava ter encontrado seu lugar no mundo moderno. Então descobre que a organização que serve esconde um segredo monstruoso, e que o assassino enviado para eliminá-lo tem o rosto de seu melhor amigo.",
+      "personagens": [
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Bucky Barnes",
+          "imagem": "assets/img/imagensp/bucky.jpg"
+        },
+        {
+          "nome": "Natasha Romanoff",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Sam Wilson",
+          "imagem": "assets/img/imagensp/falcao.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "Guardiões da Galáxia",
+      "imagem": "assets/img/imagensf/guardioes.jpg",
+      "tipo": "Filme",
+      "lancamento": "07/2014",
+      "duracao": "2h 1min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "em_breve": false,
+      "sinopse": "Um ladrão humano. Uma assassina. Um destruidor. Um guaxinim armado. Uma árvore. Juntos, são o grupo mais improvável do universo e a única esperança de salvar uma galáxia inteira.",
+      "personagens": [
+        {
+          "nome": "Peter Quill",
+          "imagem": "assets/img/imagensp/starlord.jpg"
+        },
+        {
+          "nome": "Gamora",
+          "imagem": "assets/img/imagensp/gamora.jpg"
+        },
+        {
+          "nome": "Drax",
+          "imagem": "assets/img/imagensp/drax.jpg"
+        },
+        {
+          "nome": "Rocket",
+          "imagem": "assets/img/imagensp/rocket.jpg"
+        },
+        {
+          "nome": "Groot",
+          "imagem": "assets/img/imagensp/groot.jpg"
+        },
+        {
+          "nome": "Ronan",
+          "imagem": "assets/img/imagensp/ronan.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "Guardiões da Galáxia Vol. 2",
+      "imagem": "assets/img/imagensf/guardioes2.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2017",
+      "duracao": "2h 16min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "Peter Quill finalmente conhece o pai que nunca teve. Mas nem tudo o que brilha no espaço é bom, e a família que ele já tem pode valer mais do que imagina.",
+      "personagens": [
+        {
+          "nome": "Peter Quill",
+          "imagem": "assets/img/imagensp/starlord.jpg"
+        },
+        {
+          "nome": "Gamora",
+          "imagem": "assets/img/imagensp/gamora.jpg"
+        },
+        {
+          "nome": "Drax",
+          "imagem": "assets/img/imagensp/drax.jpg"
+        },
+        {
+          "nome": "Rocket",
+          "imagem": "assets/img/imagensp/rocket.jpg"
+        },
+        {
+          "nome": "Groot",
+          "imagem": "assets/img/imagensp/groot.jpg"
+        },
+        {
+          "nome": "Ego",
+          "imagem": "assets/img/imagensp/ego.jpg"
+        },
+        {
+          "nome": "Nebula",
+          "imagem": "assets/img/imagensp/nebula.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "Vingadores: Era de Ultron",
+      "imagem": "assets/img/imagensf/ultron.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2015",
+      "duracao": "2h 21min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "em_breve": false,
+      "sinopse": "Tony Stark queria criar paz. O que criou foi Ultron, uma inteligência artificial que decidiu que a melhor forma de salvar o mundo é acabar com a humanidade. Os Vingadores correm contra o tempo para corrigir o maior erro de seus criadores.",
+      "personagens": [
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Hulk",
+          "imagem": "assets/img/imagensp/hulkv.webp"
+        },
+        {
+          "nome": "Natasha Romanoff",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Ultron",
+          "imagem": "assets/img/imagensp/ultron.jpg"
+        },
+        {
+          "nome": "Visão",
+          "imagem": "assets/img/imagensp/visao.jpg"
+        },
+        {
+          "nome": "Wanda",
+          "imagem": "assets/img/imagensp/wanda.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "Homem Formiga",
+      "tipo": "Filme",
+      "lancamento": "07/2015",
+      "duracao": "1h 57min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 2",
+      "imagem": "assets/img/imagensf/homemformiga.jpg",
+      "sinopse": "Scott Lang acabou de sair da cadeia e quer ser um pai melhor. O que ele não esperava era receber um traje que o faz encolher do tamanho de uma formiga, e a missão de evitar que uma arma com esse poder caia em mãos erradas.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Scott Lang",
+          "imagem": "assets/img/imagensp/homemformiga.jpg"
+        },
+        {
+          "nome": "Hank Pym",
+          "imagem": "assets/img/imagensp/hankpym.jpg"
+        },
+        {
+          "nome": "Hope Van Dyne",
+          "imagem": "assets/img/imagensp/hope.jpg"
+        },
+        {
+          "nome": "Darren Cross",
+          "imagem": "assets/img/imagensp/yellowjacket.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Capitão América: Guerra Civil",
+      "imagem": "assets/img/imagensf/guerracivil.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2016",
+      "duracao": "2h 27min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "Depois de tanto destruir, o mundo quer colocar os Vingadores numa coleira. Alguns concordam. Outros não. O resultado é a maior briga que os heróis já tiveram entre si mesmos.",
+      "personagens": [
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Bucky Barnes",
+          "imagem": "assets/img/imagensp/bucky.jpg"
+        },
+        {
+          "nome": "Natasha Romanoff",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Sam Wilson",
+          "imagem": "assets/img/imagensp/falcao.jpg"
+        },
+        {
+          "nome": "T'Challa",
+          "imagem": "assets/img/imagensp/panteranegra.jpg"
+        },
+        {
+          "nome": "Peter Parker",
+          "imagem": "assets/img/imagensp/spiderman.jpg"
+        },
+        {
+          "nome": "Barão Zemo",
+          "imagem": "assets/img/imagensp/zemo.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Viúva Negra",
+      "imagem": "assets/img/imagensf/viuvanegra.jpg",
+      "tipo": "Filme",
+      "lancamento": "07/2021",
+      "duracao": "2h 13min",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Antes de ser Vingadora, ela era prisioneira. Natasha Romanoff volta às suas origens sombrias para destruir o programa que a criou e encarar a família que nunca soube que tinha.",
+      "personagens": [
+        {
+          "nome": "Natasha Romanoff",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Yelena Belova",
+          "imagem": "assets/img/imagensp/yelena.jpg"
+        },
+        {
+          "nome": "Red Guardian",
+          "imagem": "assets/img/imagensp/redguardian.jpg"
+        },
+        {
+          "nome": "Melina",
+          "imagem": "assets/img/imagensp/melina.jpg"
+        },
+        {
+          "nome": "Dreykov",
+          "imagem": "assets/img/imagensp/dreykov.jpg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "titulo": "Pantera Negra",
+      "imagem": "assets/img/imagensf/panteranegra.jpg",
+      "tipo": "Filme",
+      "lancamento": "02/2018",
+      "duracao": "2h 14min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "T'Challa retorna a Wakanda para assumir o trono, mas um rival vindo das sombras questiona tudo: quem deve ser rei, o que Wakanda deve ao mundo, e o que significa ser herói quando seu país viveu em segredo por séculos.",
+      "personagens": [
+        {
+          "nome": "T'Challa",
+          "imagem": "assets/img/imagensp/panteranegra.jpg"
+        },
+        {
+          "nome": "Killmonger",
+          "imagem": "assets/img/imagensp/killmonger.jpg"
+        },
+        {
+          "nome": "Okoye",
+          "imagem": "assets/img/imagensp/okoye.jpg"
+        },
+        {
+          "nome": "Shuri",
+          "imagem": "assets/img/imagensp/shuri.jpg"
+        },
+        {
+          "nome": "Nakia",
+          "imagem": "assets/img/imagensp/nakia.jpg"
+        },
+        {
+          "nome": "Ulysses Klaue",
+          "imagem": "assets/img/imagensp/klaue.jpg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "titulo": "Homem Aranha: De Volta ao Lar",
+      "tipo": "Filme",
+      "lancamento": "07/2017",
+      "duracao": "2h 13min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "imagem": "assets/img/imagensf/homemaranha.jpg",
+      "sinopse": "Peter Parker tem 15 anos, é amigo do Homem de Ferro e quer muito ser Vingador. Mas primeiro precisa lidar com a escola, a garota que gosta e um traficante de armas alienígenas que está aterrorizando Queens.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Homem-Aranha",
+          "imagem": "assets/img/imagensp/spiderman.jpg"
+        },
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Abutre",
+          "imagem": "assets/img/imagensp/abutre.jpg"
+        },
+        {
+          "nome": "Ned Leeds",
+          "imagem": "assets/img/imagensp/ned.jpg"
+        },
+        {
+          "nome": "Michelle Jones",
+          "imagem": "assets/img/imagensp/mj.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "titulo": "Doutor Estranho",
+      "imagem": "assets/img/imagensf/doutorestranho.webp",
+      "tipo": "Filme",
+      "lancamento": "11/2016",
+      "duracao": "1h 55min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "Stephen Strange era o melhor cirurgião do mundo até perder o uso das mãos. Desesperado, vai longe demais em busca de uma cura e acaba descobrindo que existe muito mais no universo do que ciência pode explicar.",
+      "personagens": [
+        {
+          "nome": "Stephen Strange",
+          "imagem": "assets/img/imagensp/doutroestranho.jpg"
+        },
+        {
+          "nome": "Wong",
+          "imagem": "assets/img/imagensp/wong.jpg"
+        },
+        {
+          "nome": "Anciã",
+          "imagem": "assets/img/imagensp/ancia.jpg"
+        },
+        {
+          "nome": "Mordo",
+          "imagem": "assets/img/imagensp/mordo.jpg"
+        },
+        {
+          "nome": "Dormammu",
+          "imagem": "assets/img/imagensp/dormammu.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "titulo": "Thor: Ragnarok",
+      "imagem": "assets/img/imagensf/thorragnarok.jpg",
+      "tipo": "Filme",
+      "lancamento": "10/2017",
+      "duracao": "2h 10min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "Asgard vai ser destruída. A deusa da morte tomou o trono. E Thor está preso num planeta de lixo, sem seu martelo, tendo que lutar numa arena contra... o Hulk. Ragnarok nunca foi tão divertido.",
+      "personagens": [
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Loki",
+          "imagem": "assets/img/imagensp/loki.jpg"
+        },
+        {
+          "nome": "Hela",
+          "imagem": "assets/img/imagensp/hela.jpg"
+        },
+        {
+          "nome": "Hulk",
+          "imagem": "assets/img/imagensp/hulkv.webp"
+        },
+        {
+          "nome": "Valquíria",
+          "imagem": "assets/img/imagensp/valkyrie.jpg"
+        },
+        {
+          "nome": "Grandmaster",
+          "imagem": "assets/img/imagensp/grandmaster.jpg"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "titulo": "Vingadores: Guerra Infinita",
+      "imagem": "assets/img/imagensf/guerrainfinita.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2018",
+      "duracao": "2h 29min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "Thanos chegou. E os heróis que passaram anos defendendo o universo descobrem que, juntos, talvez não sejam suficientes. Uma das batalhas mais épicas e devastadoras que o MCU já mostrou.",
+      "personagens": [
+        {
+          "nome": "Thanos",
+          "imagem": "assets/img/imagensp/thanos.jpg"
+        },
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Stephen Strange",
+          "imagem": "assets/img/imagensp/doutroestranho.jpg"
+        },
+        {
+          "nome": "Gamora",
+          "imagem": "assets/img/imagensp/gamora.jpg"
+        },
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "Homem Formiga e a Vespa",
+      "tipo": "Filme",
+      "lancamento": "07/2018",
+      "duracao": "1h 58min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "imagem": "assets/img/imagensf/homemformigavespa.jpg",
+      "sinopse": "Scott Lang está em prisão domiciliar. Hope e Hank Pym precisam dele para uma missão impossível: entrar no Reino Quântico e trazer Janet Van Dyne de volta, antes que Thanos mude tudo.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Homem-Formiga",
+          "imagem": "assets/img/imagensp/homemformiga.jpg"
+        },
+        {
+          "nome": "Vespa",
+          "imagem": "assets/img/imagensp/hope.jpg"
+        },
+        {
+          "nome": "Hank Pym",
+          "imagem": "assets/img/imagensp/hankpym.jpg"
+        },
+        {
+          "nome": "Fantasma",
+          "imagem": "assets/img/imagensp/fantasma.jpg"
+        },
+        {
+          "nome": "Janet Van Dyne",
+          "imagem": "assets/img/imagensp/janet.jpg"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "titulo": "Vingadores: Ultimato",
+      "imagem": "assets/img/imagensf/ultimato.jpg",
+      "tipo": "Filme",
+      "lancamento": "04/2019",
+      "duracao": "3h 1min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "em_breve": false,
+      "sinopse": "Cinco anos depois do fim do mundo, os que sobraram ainda carregam o peso da derrota. Uma segunda chance surge, mas o preço pode ser maior do que qualquer um está disposto a pagar.",
+      "personagens": [
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Hulk",
+          "imagem": "assets/img/imagensp/hulkv.webp"
+        },
+        {
+          "nome": "Natasha Romanoff",
+          "imagem": "assets/img/imagensp/viuva.webp"
+        },
+        {
+          "nome": "Gavião Arqueiro",
+          "imagem": "assets/img/imagensp/gaviao.jpg"
+        },
+        {
+          "nome": "Thanos",
+          "imagem": "assets/img/imagensp/thanos.jpg"
+        },
+        {
+          "nome": "Scott Lang",
+          "imagem": "assets/img/imagensp/homemformiga.jpg"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Homem Aranha: Longe de Casa",
+      "tipo": "Filme",
+      "lancamento": "12/2019",
+      "duracao": "2h 9min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 3",
+      "imagem": "assets/img/imagensf/homemaranha2.jpg",
+      "sinopse": "Depois de tudo que aconteceu, Peter Parker só queria curtir a viagem escolar pela Europa. Mas quando monstros gigantes aparecem e um herói misterioso entra em cena, a férias viram a missão mais perigosa da sua vida.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Homem-Aranha",
+          "imagem": "assets/img/imagensp/spiderman.jpg"
+        },
+        {
+          "nome": "Mysterio",
+          "imagem": "assets/img/imagensp/mysterio.jpg"
+        },
+        {
+          "nome": "Nick Fury",
+          "imagem": "assets/img/imagensp/nick.webp"
+        },
+        {
+          "nome": "Michelle Jones",
+          "imagem": "assets/img/imagensp/mj.jpg"
+        },
+        {
+          "nome": "Ned Leeds",
+          "imagem": "assets/img/imagensp/ned.jpg"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "titulo": "Homem Aranha: Sem Volta para Casa",
+      "tipo": "Filme",
+      "lancamento": "12/2021",
+      "duracao": "2h 28min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "imagem": "assets/img/imagensf/homemaranha3.jpg",
+      "sinopse": "Peter pediu para o mundo esquecer que ele é o Homem-Aranha. O feitiço deu errado e agora vilões de universos paralelos estão chegando. Uma história sobre identidade, perda e o maior sacrifício que um herói pode fazer.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Homem-Aranha",
+          "imagem": "assets/img/imagensp/spiderman.jpg"
+        },
+        {
+          "nome": "Doutor Estranho",
+          "imagem": "assets/img/imagensp/doutroestranho.jpg"
+        },
+        {
+          "nome": "Electro",
+          "imagem": "assets/img/imagensp/electro.jpg"
+        },
+        {
+          "nome": "Duende Verde",
+          "imagem": "assets/img/imagensp/duende.jpg"
+        },
+        {
+          "nome": "Doutor Octopus",
+          "imagem": "assets/img/imagensp/octopus.jpg"
+        },
+        {
+          "nome": "Michelle Jones",
+          "imagem": "assets/img/imagensp/mj.jpg"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "titulo": "Shang Chi e a Lenda dos Dez Anéis",
+      "tipo": "Filme",
+      "lancamento": "09/2021",
+      "duracao": "2h 12min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "imagem": "assets/img/imagensf/shangchi.jpg",
+      "sinopse": "Shang-Chi achava que tinha escapado do seu passado. Então seu pai, o homem mais perigoso do mundo e que governa uma organização secreta há mil anos, manda buscá-lo. Família é complicada.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Shang-Chi",
+          "imagem": "assets/img/imagensp/shangchi.jpg"
+        },
+        {
+          "nome": "Wenwu",
+          "imagem": "assets/img/imagensp/wenwu.jpg"
+        },
+        {
+          "nome": "Katy",
+          "imagem": "assets/img/imagensp/katy.jpg"
+        },
+        {
+          "nome": "Xialing",
+          "imagem": "assets/img/imagensp/xialing.jpg"
+        },
+        {
+          "nome": "Trevor Slattery",
+          "imagem": "assets/img/imagensp/mandarim.avif"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "titulo": "Eternos",
+      "imagem": "assets/img/imagensf/eternos.jpg",
+      "tipo": "Filme",
+      "lancamento": "11/2021",
+      "duracao": "2h 37min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Eles vivem entre nós há sete mil anos, mas nunca intervieram. Agora, uma ameaça cósmica os obriga a sair das sombras e a questionar tudo o que acreditavam sobre sua missão na Terra.",
+      "personagens": [
+        {
+          "nome": "Sersi",
+          "imagem": "assets/img/imagensp/sersi.jpg"
+        },
+        {
+          "nome": "Ikaris",
+          "imagem": "assets/img/imagensp/ikaris.jpg"
+        },
+        {
+          "nome": "Thena",
+          "imagem": "assets/img/imagensp/thena.jpg"
+        },
+        {
+          "nome": "Gilgamesh",
+          "imagem": "assets/img/imagensp/gilgamesh.jpg"
+        },
+        {
+          "nome": "Druig",
+          "imagem": "assets/img/imagensp/druig.jpg"
+        },
+        {
+          "nome": "Makkari",
+          "imagem": "assets/img/imagensp/makkari.jpg"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "titulo": "Doutor Estranho no Multiverso da Loucura",
+      "imagem": "assets/img/imagensf/doutroestranho2.jpg",
+      "tipo": "Filme",
+      "lancamento": "05/2022",
+      "duracao": "2h 6min",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Abrir o multiverso foi um erro. Agora existe algo lá dentro perseguindo uma garota com o poder de pular entre universos e Doutor Estranho vai precisar de ajuda de versões de si mesmo que nunca imaginaria encontrar.",
+      "personagens": [
+        {
+          "nome": "Stephen Strange",
+          "imagem": "assets/img/imagensp/doutroestranho.jpg"
+        },
+        {
+          "nome": "Wanda",
+          "imagem": "assets/img/imagensp/wanda.jpg"
+        },
+        {
+          "nome": "America Chavez",
+          "imagem": "assets/img/imagensp/america.jpg"
+        },
+        {
+          "nome": "Wong",
+          "imagem": "assets/img/imagensp/wong.jpg"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "titulo": "Thor: Amor e Trovão",
+      "imagem": "assets/img/imagensf/thor4.jpg",
+      "tipo": "Filme",
+      "lancamento": "07/2022",
+      "duracao": "1h 58min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Um deus sem seu martelo. Uma ex-namorada que ganhou os poderes dele. E um vilão que quer matar todos os deuses do universo, um por um. Thor precisa descobrir quem ele é sem o que sempre o definiu.",
+      "personagens": [
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        },
+        {
+          "nome": "Jane Foster",
+          "imagem": "assets/img/imagensp/jane.jpg"
+        },
+        {
+          "nome": "Gorr",
+          "imagem": "assets/img/imagensp/gorr.jpg"
+        },
+        {
+          "nome": "Valquíria",
+          "imagem": "assets/img/imagensp/valkyrie.jpg"
+        },
+        {
+          "nome": "Korg",
+          "imagem": "assets/img/imagensp/korg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "imagem": "assets/img/imagensf/panteranegra2.jpg",
+      "tipo": "Filme",
+      "lancamento": "11/2022",
+      "duracao": "2h 41min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Wakanda está de luto. E enquanto o mundo espera pela fraqueza do reino, uma civilização oculta nas profundezas do oceano surge com uma proposta: se rendam, ou enfrentem a guerra.",
+      "personagens": [
+        {
+          "nome": "Shuri",
+          "imagem": "assets/img/imagensp/shuri.jpg"
+        },
+        {
+          "nome": "Namor",
+          "imagem": "assets/img/imagensp/namor.jpg"
+        },
+        {
+          "nome": "Ramonda",
+          "imagem": "assets/img/imagensp/ramonda.jpg"
+        },
+        {
+          "nome": "Okoye",
+          "imagem": "assets/img/imagensp/okoye.jpg"
+        },
+        {
+          "nome": "Ironheart",
+          "imagem": "assets/img/imagensp/ironheart.jpg"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "titulo": "Homem Formiga e a Vespa: Quantumania",
+      "tipo": "Filme",
+      "lancamento": "02/2023",
+      "duracao": "2h 4min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 5",
+      "imagem": "assets/img/imagensf/quantumania.jpg",
+      "sinopse": "Scott Lang achava que tinha uma vida boa. Então toda a família é sugada para o Reino Quântico e lá, controlando tudo, está Kang: o conquistador mais perigoso que o MCU já viu.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Homem-Formiga",
+          "imagem": "assets/img/imagensp/homemformiga.jpg"
+        },
+        {
+          "nome": "Vespa",
+          "imagem": "assets/img/imagensp/hope.jpg"
+        },
+        {
+          "nome": "Kang, o Conquistador",
+          "imagem": "assets/img/imagensp/kang.jpg"
+        },
+        {
+          "nome": "Cassie Lang",
+          "imagem": "assets/img/imagensp/cassie.jpg"
+        },
+        {
+          "nome": "Janet Van Dyne",
+          "imagem": "assets/img/imagensp/janet.jpg"
+        },
+        {
+          "nome": "MODOK",
+          "imagem": "assets/img/imagensp/modok.jpg"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "titulo": "Guardiões da Galáxia Vol. 3",
+      "imagem": "assets/img/imagensf/guardioes3.jpg",
+      "tipo": "Filme",
+      "lancamento": "05/2023",
+      "duracao": "2h 30min",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "A equipe está se desfazendo. E para salvar Rocket, precisam enfrentar o Alto Evolucionário, o ser que o criou e que nunca parou de persegui-lo. A missão mais pessoal dos Guardiões, e a mais emocionante.",
+      "personagens": [
+        {
+          "nome": "Peter Quill",
+          "imagem": "assets/img/imagensp/starlord.jpg"
+        },
+        {
+          "nome": "Rocket",
+          "imagem": "assets/img/imagensp/rocket.jpg"
+        },
+        {
+          "nome": "Groot",
+          "imagem": "assets/img/imagensp/groot.jpg"
+        },
+        {
+          "nome": "Gamora",
+          "imagem": "assets/img/imagensp/gamora.jpg"
+        },
+        {
+          "nome": "Nebula",
+          "imagem": "assets/img/imagensp/nebula.jpg"
+        },
+        {
+          "nome": "Alto Evolucionário",
+          "imagem": "assets/img/imagensp/altoevolucionario.jpg"
+        },
+        {
+          "nome": "Adam Warlock",
+          "imagem": "assets/img/imagensp/adamwarlock.jpg"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "titulo": "As Marvels",
+      "imagem": "assets/img/imagensf/asmarvels.jpg",
+      "tipo": "Filme",
+      "lancamento": "11/2023",
+      "duracao": "1h 45min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Carol Danvers, Kamala Khan e Monica Rambeau estão trocando de lugar toda vez que usam seus poderes, sem saber por quê. Precisam aprender a trabalhar juntas antes que o universo pague o preço.",
+      "personagens": [
+        {
+          "nome": "Carol Danvers",
+          "imagem": "assets/img/imagensp/capitamarvel.webp"
+        },
+        {
+          "nome": "Kamala Khan",
+          "imagem": "assets/img/imagensp/msmarvel.avif"
+        },
+        {
+          "nome": "Monica Rambeau",
+          "imagem": "assets/img/imagensp/monica.jpg"
+        },
+        {
+          "nome": "Dar-Benn",
+          "imagem": "assets/img/imagensp/darbenn.jpg"
+        },
+        {
+          "nome": "Nick Fury",
+          "imagem": "assets/img/imagensp/nick.webp"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "titulo": "Deadpool & Wolverine",
+      "imagem": "assets/img/imagensf/deadpoolwolverine.jpg",
+      "tipo": "Filme",
+      "lancamento": "07/2024",
+      "duracao": "2h 7min",
+      "plataforma": "Disney+",
+      "classificacao": "18 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Deadpool está fora do tempo, o universo dele vai acabar, e a única solução é convencer o Wolverine mais rabugento do multiverso a ser seu parceiro. Pela primeira vez, o Deadpool é oficial no MCU e nada será o mesmo.",
+      "personagens": [
+        {
+          "nome": "Deadpool",
+          "imagem": "assets/img/imagensp/deadpool.jpg"
+        },
+        {
+          "nome": "Wolverine",
+          "imagem": "assets/img/imagensp/wolverine.jpg"
+        },
+        {
+          "nome": "Cassandra Nova",
+          "imagem": "assets/img/imagensp/cassandanova.jpg"
+        },
+        {
+          "nome": "Paradox",
+          "imagem": "assets/img/imagensp/paradox.jpg"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "titulo": "Capitão América: Admirável Mundo Novo",
+      "imagem": "assets/img/imagensf/capitaamerica4.jpg",
+      "tipo": "Filme",
+      "lancamento": "02/2025",
+      "duracao": "1h 58min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Sam Wilson é o novo Capitão América. E a primeira grande crise do seu mandato envolve um presidente impulsivo, uma substância que transforma humanos em monstros e uma conspiração que vai até o centro do poder americano.",
+      "personagens": [
+        {
+          "nome": "Sam Wilson",
+          "imagem": "assets/img/imagensp/falcao.jpg"
+        },
+        {
+          "nome": "Thaddeus Ross (Hulk Vermelho)",
+          "imagem": "assets/img/imagensp/ross.avif"
+        },
+        {
+          "nome": "Isaiah Bradley",
+          "imagem": "assets/img/imagensp/isaiah.jpg"
+        },
+        {
+          "nome": "Ruth Bat-Seraph",
+          "imagem": "assets/img/imagensp/ruth.jpg"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "titulo": "Thunderbolts*",
+      "imagem": "assets/img/imagensf/thunderbolts.jpg",
+      "tipo": "Filme",
+      "lancamento": "05/2025",
+      "duracao": "2h 7min",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Nenhum deles é herói. Alguns são vilões. Todos têm algo a provar. Quando uma missão do governo os reúne, esse grupo de renegados descobre que salvar o mundo pode ser a única coisa que ainda os salva de si mesmos.",
+      "personagens": [
+        {
+          "nome": "Yelena Belova",
+          "imagem": "assets/img/imagensp/yelena.jpg"
+        },
+        {
+          "nome": "Bucky Barnes",
+          "imagem": "assets/img/imagensp/bucky.jpg"
+        },
+        {
+          "nome": "Fantasma",
+          "imagem": "assets/img/imagensp/fantasma.jpg"
+        },
+        {
+          "nome": "Red Guardian",
+          "imagem": "assets/img/imagensp/redguardian.jpg"
+        },
+        {
+          "nome": "Taskmaster",
+          "imagem": "assets/img/imagensp/taskmaster.jpg"
+        },
+        {
+          "nome": "John Walker",
+          "imagem": "assets/img/imagensp/usagent.jpg"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "titulo": "Quarteto Fantástico: Primeiros Passos",
+      "imagem": "assets/img/imagensf/quarteto_fantastico.jpg",
+      "tipo": "Filme",
+      "lancamento": "07/2025",
+      "duracao": "2h 10min",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 6",
+      "em_breve": false,
+      "sinopse": "A primeira família do MCU finalmente chegou. Reed, Sue, Johnny e Ben precisam equilibrar superpoderes, vida em família e a chegada do ser mais aterrador do cosmos: Galactus, o Devorador de Mundos.",
+      "personagens": [
+        {
+          "nome": "Reed Richards",
+          "imagem": "assets/img/imagensp/srfantastico.jpg"
+        },
+        {
+          "nome": "Sue Storm",
+          "imagem": "assets/img/imagensp/mulherinvisivel.jpg"
+        },
+        {
+          "nome": "Johnny Storm",
+          "imagem": "assets/img/imagensp/tochahumana.jpg"
+        },
+        {
+          "nome": "Ben Grimm",
+          "imagem": "assets/img/imagensp/ocoisa.jpg"
+        },
+        {
+          "nome": "Galactus",
+          "imagem": "assets/img/imagensp/galactus.jpg"
+        },
+        {
+          "nome": "Surfista Prateada",
+          "imagem": "assets/img/imagensp/surfistaprateada.jpg"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "titulo": "Avengers: Doomsday",
+      "imagem": "assets/img/imagensf/doomsday.jpg",
+      "tipo": "Filme",
+      "lancamento": "Em breve (12/2026)",
+      "duracao": "A definir",
+      "plataforma": "Cinema",
+      "classificacao": "A definir",
+      "fase": "Fase 6",
+      "em_breve": true,
+      "sinopse": "O Doutor Destino tem um plano para o multiverso e os Vingadores estão no caminho. Uma ameaça diferente de tudo que veio antes, com o maior elenco já reunido no MCU.",
+      "personagens": [
+        {
+          "nome": "Doutor Destino",
+          "imagem": "assets/img/imagensp/doutordestino.jpg"
+        },
+        {
+          "nome": "Steve Rogers",
+          "imagem": "assets/img/imagensp/capitaop.jpg"
+        },
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemdeferro.webp"
+        },
+        {
+          "nome": "Thor",
+          "imagem": "assets/img/imagensp/thor.png"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "titulo": "Homem Aranha: Um Novo Dia",
+      "tipo": "Filme",
+      "lancamento": "2026",
+      "duracao": "2h 30min",
+      "plataforma": "Cinema",
+      "classificacao": "A definir",
+      "fase": "Fase 6",
+      "imagem": "assets/img/imagensf/spiderman4.jpg",
+      "sinopse": "Ninguém lembra que Peter Parker existe. Recomeçar do zero em Nova York parece impossível, até que uma nova ameaça surge e lembra ao mundo por que o Homem-Aranha nunca some de verdade.",
+      "em_breve": true,
+      "personagens": [
+        {
+          "nome": "Peter Parker",
+          "imagem": "assets/img/imagensp/spiderman.jpg"
+        },
+        {
+          "nome": "Michelle Jones",
+          "imagem": "assets/img/imagensp/mj.jpg"
+        },
+        {
+          "nome": "Ned Leeds",
+          "imagem": "assets/img/imagensp/ned.jpg"
+        },
+        {
+          "nome": "Doutor Destino",
+          "imagem": "assets/img/imagensp/doutordestino.jpg"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "titulo": "Avengers: Secret Wars",
+      "imagem": "assets/img/imagensf/secretwars.jpg",
+      "tipo": "Filme",
+      "lancamento": "2027",
+      "duracao": "A definir",
+      "plataforma": "Cinema",
+      "classificacao": "A definir",
+      "fase": "Fase 6",
+      "em_breve": true,
+      "sinopse": "Todos os universos. Todos os heróis. Um único campo de batalha. A maior guerra da história do multiverso começa agora, e nem todos vão sobreviver para contar.",
+      "personagens": [
+        {
+          "nome": "Doutor Destino",
+          "imagem": "assets/img/imagensp/doutordestino.jpg"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": 101,
+      "titulo": "WandaVision",
+      "imagem": "assets/img/imagenss/wandavision.jpg",
+      "tipo": "Série",
+      "lancamento": "01/2021",
+      "duracao": "9 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Wanda e Visão vivem a vida perfeita nos subúrbios americanos. Mas algo está errado: o mundo parece um seriado de TV dos anos 50, e ninguém sabe por quê. Uma das experiências mais originais do MCU, e uma das mais emocionantes.",
+      "personagens": [
+        {
+          "nome": "Wanda",
+          "imagem": "assets/img/imagensp/wanda.jpg"
+        },
+        {
+          "nome": "Visão",
+          "imagem": "assets/img/imagensp/visao.jpg"
+        },
+        {
+          "nome": "Agatha Harkness",
+          "imagem": "assets/img/imagensp/agatha.jpg"
+        },
+        {
+          "nome": "Monica Rambeau",
+          "imagem": "assets/img/imagensp/monica.jpg"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "titulo": "Loki",
+      "imagem": "assets/img/imagenss/loki.webp",
+      "tipo": "Série",
+      "lancamento": "06/2021",
+      "duracao": "2 temporadas • 12 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Após escapar dos Vingadores, Loki é capturado pela Agência de Variação do Tempo e descobrem que existe uma versão ainda mais perigosa dele solta pela linha do tempo. O deus das mentiras precisa enfrentar a si mesmo.",
+      "personagens": [
+        {
+          "nome": "Loki",
+          "imagem": "assets/img/imagensp/loki.jpg"
+        },
+        {
+          "nome": "Sylvie",
+          "imagem": "assets/img/imagensp/sylvie.jpg"
+        },
+        {
+          "nome": "Mobius",
+          "imagem": "assets/img/imagensp/mobius.jpg"
+        },
+        {
+          "nome": "Miss Minutes",
+          "imagem": "assets/img/imagensp/missminutes.jpg"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "titulo": "What If...? (Temporada 1)",
+      "imagem": "assets/img/imagenss/whatif.jpg",
+      "tipo": "Série",
+      "lancamento": "08/2021",
+      "duracao": "9 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "E se Peggy Carter tivesse tomado o soro? E se T'Challa fosse o Senhor das Estrelas? A primeira série animada do MCU reimagina os maiores momentos da Marvel em universos alternativos fascinantes e cada episódio muda tudo.",
+      "personagens": [
+        {
+          "nome": "O Vigilante",
+          "imagem": "assets/img/imagensp/vigilante.jpg"
+        },
+        {
+          "nome": "Peggy Carter",
+          "imagem": "assets/img/imagensp/peggycarterwhatif.jpg"
+        },
+        {
+          "nome": "T'Challa",
+          "imagem": "assets/img/imagensp/tchallawhatif.jpg"
+        },
+        {
+          "nome": "Doutor Estranho Supremo",
+          "imagem": "assets/img/imagensp/doutorestranhowhatif.jpg"
+        },
+        {
+          "nome": "Ultron (Visão)",
+          "imagem": "assets/img/imagensp/ultronwhatif.jpg"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "titulo": "Falcão e o Soldado Invernal",
+      "imagem": "assets/img/imagenss/falcaosoldado.jpg",
+      "tipo": "Série",
+      "lancamento": "03/2021",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Steve Rogers foi embora. O escudo ficou. Agora Sam Wilson e Bucky Barnes precisam decidir o que o Capitão América representa, enquanto um grupo que quer mudar o mundo usa os mesmos ideais deles como justificativa.",
+      "personagens": [
+        {
+          "nome": "Sam Wilson",
+          "imagem": "assets/img/imagensp/falcao.jpg"
+        },
+        {
+          "nome": "Bucky Barnes",
+          "imagem": "assets/img/imagensp/bucky.jpg"
+        },
+        {
+          "nome": "Zemo",
+          "imagem": "assets/img/imagensp/zemo.jpg"
+        },
+        {
+          "nome": "Sharon Carter",
+          "imagem": "assets/img/imagensp/sharon.jpg"
+        },
+        {
+          "nome": "John Walker",
+          "imagem": "assets/img/imagensp/usagent.jpg"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "titulo": "Gavião Arqueiro",
+      "imagem": "assets/img/imagenss/gaviaoarqueiro.jpg",
+      "tipo": "Série",
+      "lancamento": "11/2021",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Clint Barton queria passar o Natal com a família. Em vez disso, encontrou Kate Bishop — uma jovem que roubou sua identidade de super-herói e os dois precisam sobreviver a uma semana cheia de inimigos, flechas e muita confusão.",
+      "personagens": [
+        {
+          "nome": "Clint Barton",
+          "imagem": "assets/img/imagensp/gaviao.jpg"
+        },
+        {
+          "nome": "Kate Bishop",
+          "imagem": "assets/img/imagensp/kate.jpg"
+        },
+        {
+          "nome": "Yelena Belova",
+          "imagem": "assets/img/imagensp/yelena.jpg"
+        },
+        {
+          "nome": "Echo",
+          "imagem": "assets/img/imagensp/mayalopez.jpg"
+        },
+        {
+          "nome": "Kingpin",
+          "imagem": "assets/img/imagensp/kingpin.jpg"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "titulo": "Moon Knight",
+      "imagem": "assets/img/imagenss/moon.webp",
+      "tipo": "Série",
+      "lancamento": "03/2022",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Marc Spector não sabe se o que vê é real. Ele compartilha o corpo com outra personalidade, serve a um deus egípcio e está no meio de uma missão que pode destruir o mundo. E isso é só o começo.",
+      "personagens": [
+        {
+          "nome": "Moon Knight",
+          "imagem": "assets/img/imagensp/moon.jpg"
+        },
+        {
+          "nome": "Khonshu",
+          "imagem": "assets/img/imagensp/khonshu.jpg"
+        },
+        {
+          "nome": "Layla",
+          "imagem": "assets/img/imagensp/layla.jpg"
+        },
+        {
+          "nome": "Arthur Harrow",
+          "imagem": "assets/img/imagensp/arthur.jpg"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "titulo": "She Hulk: Consultora Jurídica",
+      "tipo": "Série",
+      "lancamento": "08/2022",
+      "duracao": "9 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 4",
+      "imagem": "assets/img/imagenss/shehulk.jpg",
+      "sinopse": "Jennifer Walters é advogada, prima do Hulk e, depois de um acidente, também uma Hulk. Tudo o que queria era viver sua vida normal. Mas quando você mede 1,90m e é verde, normal é difícil de conseguir.",
+      "destaque": false,
+      "personagens": [
+        {
+          "nome": "Jennifer Walters",
+          "imagem": "assets/img/imagensp/shehulk.jpg"
+        },
+        {
+          "nome": "Bruce Banner",
+          "imagem": "assets/img/imagensp/bruce.jpeg"
+        },
+        {
+          "nome": "Homem-Formiga",
+          "imagem": "assets/img/imagensp/homemformiga.jpg"
+        },
+        {
+          "nome": "Titania",
+          "imagem": "assets/img/imagensp/titania.jpg"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "titulo": "Ms. Marvel",
+      "imagem": "assets/img/imagenss/msmarvel.jpg",
+      "tipo": "Série",
+      "lancamento": "06/2022",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 4",
+      "em_breve": false,
+      "sinopse": "Kamala Khan é fã dos Vingadores, escreve fanfics, e acabou de descobrir que tem superpoderes. O sonho de qualquer adolescente, com a responsabilidade que nenhum adolescente estava pronto para ter.",
+      "personagens": [
+        {
+          "nome": "Kamala Khan",
+          "imagem": "assets/img/imagensp/msmarvel.avif"
+        },
+        {
+          "nome": "Bruno Carrelli",
+          "imagem": "assets/img/imagensp/bruno.jpg"
+        },
+        {
+          "nome": "Nakia Bahadir",
+          "imagem": "assets/img/imagensp/nakia.jpg"
+        },
+        {
+          "nome": "Kamran",
+          "imagem": "assets/img/imagensp/kamran.jpg"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "titulo": "Invasão Secreta",
+      "imagem": "assets/img/imagenss/invasaosecreta.jpg",
+      "tipo": "Série",
+      "lancamento": "06/2023",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Skrulls infiltrados em posições de poder no mundo todo. Ninguém sabe quem é real. E Nick Fury precisa salvar a Terra praticamente sozinho. Sua missão mais sombria e pessoal.",
+      "personagens": [
+        {
+          "nome": "Nick Fury",
+          "imagem": "assets/img/imagensp/nick.webp"
+        },
+        {
+          "nome": "Talos",
+          "imagem": "assets/img/imagensp/talos.jpg"
+        },
+        {
+          "nome": "Gravik",
+          "imagem": "assets/img/imagensp/gravik.jpg"
+        },
+        {
+          "nome": "Maria Hill",
+          "imagem": "assets/img/imagensp/maria.webp"
+        },
+        {
+          "nome": "Everett Ross",
+          "imagem": "assets/img/imagensp/ross.avif"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "titulo": "What If...? (Temporada 2)",
+      "tipo": "Série",
+      "lancamento": "12/2023",
+      "duracao": "9 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Novos universos, novos heróis, novas reviravoltas. A segunda temporada expande o multiverso e traz histórias ainda mais ousadas, com personagens que nunca imaginamos ver em situações assim.",
+      "imagem": "assets/img/imagenss/whatif2.jpg",
+      "personagens": [
+        {
+          "nome": "O Vigilante",
+          "imagem": "assets/img/imagensp/vigilante.jpg"
+        },
+        {
+          "nome": "Peggy Carter",
+          "imagem": "assets/img/imagensp/peggycarterwhatif.jpg"
+        },
+        {
+          "nome": "Gamora",
+          "imagem": "assets/img/imagensp/gamorawhatif.jpg"
+        },
+        {
+          "nome": "Tony Stark",
+          "imagem": "assets/img/imagensp/homemferrowhatif.webp"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "titulo": "Echo",
+      "imagem": "assets/img/imagenss/echos.jpg",
+      "tipo": "Série",
+      "lancamento": "01/2024",
+      "duracao": "5 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "16 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Maya Lopez voltou para casa e para os fantasmas que deixou para trás. Uma série mais sombria e visceral do MCU, que mergulha nas raízes indígenas da protagonista enquanto ela enfrenta o império criminoso do Rei do Crime.",
+      "personagens": [
+        {
+          "nome": "Maya Lopez",
+          "imagem": "assets/img/imagensp/mayalopez.jpg"
+        },
+        {
+          "nome": "Wilson Fisk",
+          "imagem": "assets/img/imagensp/kingpin.jpg"
+        },
+        {
+          "nome": "Matt Murdock",
+          "imagem": "assets/img/imagensp/demolidor.jpg"
+        },
+        {
+          "nome": "Chefe Skully",
+          "imagem": "assets/img/imagensp/chefeskully.webp"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "titulo": "Agatha All Along",
+      "imagem": "assets/img/imagenss/agatha.jpg",
+      "tipo": "Série",
+      "lancamento": "09/2024",
+      "duracao": "9 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "14 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Agatha Harkness saiu da prisão e quer de volta seus poderes. Para isso, precisa percorrer a Estrada das Bruxas, um caminho mágico e mortal, com um grupo de bruxas improváveis. Uma das séries mais criativas da Fase 5.",
+      "personagens": [
+        {
+          "nome": "Agatha Harkness",
+          "imagem": "assets/img/imagensp/agatha.jpg"
+        },
+        {
+          "nome": "Billy Maximoff",
+          "imagem": "assets/img/imagensp/billy.jpg"
+        },
+        {
+          "nome": "Lilia Calderu",
+          "imagem": "assets/img/imagensp/lilia.jpg"
+        },
+        {
+          "nome": "Rio Vidal",
+          "imagem": "assets/img/imagensp/rio.webp"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "titulo": "Demolidor: Renascido",
+      "imagem": "assets/img/imagenss/demolidor.jpg",
+      "tipo": "Série",
+      "lancamento": "03/2025",
+      "duracao": "9 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "16 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Matt Murdock tentou deixar o vigilantismo para trás. Mas quando Kingpin se torna prefeito de Nova York, as duas maiores forças da cidade colidem de novo e, desta vez, não tem trégua.",
+      "personagens": [
+        {
+          "nome": "Demolidor",
+          "imagem": "assets/img/imagensp/demolidor.jpg"
+        },
+        {
+          "nome": "Kingpin",
+          "imagem": "assets/img/imagensp/kingpin.jpg"
+        },
+        {
+          "nome": "Elektra",
+          "imagem": "assets/img/imagensp/elektra.jpg"
+        },
+        {
+          "nome": "Foggy Nelson",
+          "imagem": "assets/img/imagensp/foggy.jpg"
+        },
+        {
+          "nome": "Karen Page",
+          "imagem": "assets/img/imagensp/karen.jpg"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "titulo": "Visão",
+      "imagem": "assets/img/imagenss/visao.jpg",
+      "tipo": "Série",
+      "lancamento": "01/2025",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 5",
+      "em_breve": false,
+      "sinopse": "Uma nova versão de Visão desperta sem memórias, sem emoções e com uma missão: descobrir o que ele é. Uma série sobre identidade, humanidade e o que significa existir quando você foi criado para servir.",
+      "personagens": [
+        {
+          "nome": "Visão",
+          "imagem": "assets/img/imagensp/visao.jpg"
+        },
+        {
+          "nome": "Scarlet Scarab",
+          "imagem": "assets/img/imagensp/scarletscrab.jpg"
+        },
+        {
+          "nome": "Virginia",
+          "imagem": "assets/img/imagensp/virginia.jpg"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "titulo": "Seu Amigável Vizinho Homem-Aranha",
+      "imagem": "assets/img/imagenss/homemaranhaamigavel.jpg",
+      "tipo": "Série",
+      "lancamento": "01/2025",
+      "duracao": "10 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 6",
+      "em_breve": false,
+      "sinopse": "Antes dos Vingadores, antes da fama, este é o primeiro ano de Peter Parker com poderes. Uma série animada cheia de energia que mostra como o maior herói do bairro começou do zero.",
+      "personagens": [
+        {
+          "nome": "Peter Parker",
+          "imagem": "assets/img/imagensp/homemaranhaamigo.jpg"
+        },
+        {
+          "nome": "Nico Minoru",
+          "imagem": "assets/img/imagensp/nicominoru.webp"
+        },
+        {
+          "nome": "Amadeus Cho",
+          "imagem": "assets/img/imagensp/amadeus.webp"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "titulo": "Ironheart",
+      "imagem": "assets/img/imagenss/ironheart.jpg",
+      "tipo": "Série",
+      "lancamento": "06/2025",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 6",
+      "em_breve": false,
+      "sinopse": "Riri Williams tem 19 anos, uma mente extraordinária e acabou de construir uma armadura melhor que a do Homem de Ferro. Quando volta a Chicago, descobre que genialidade e ambição podem te colocar no caminho de pessoas muito perigosas.",
+      "personagens": [
+        {
+          "nome": "Riri Williams",
+          "imagem": "assets/img/imagensp/riri.jpg"
+        },
+        {
+          "nome": "Parker Robbins",
+          "imagem": "assets/img/imagensp/ocapuz.jpg"
+        },
+        {
+          "nome": "Natalie Washington",
+          "imagem": "assets/img/imagensp/nataliewashington.jpg"
+        },
+        {
+          "nome": "Ronnie Williams",
+          "imagem": "assets/img/imagensp/ronniewilliams.jpg"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "titulo": "Olhos de Wakanda",
+      "imagem": "assets/img/imagenss/olhoswakanda.jpg",
+      "tipo": "Série",
+      "lancamento": "08/2025",
+      "duracao": "4 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 6",
+      "em_breve": false,
+      "sinopse": "Por séculos, guerreiros de Wakanda cruzaram o mundo para proteger fragmentos de vibranium. Uma série animada que expande o universo Wakandiano por diferentes épocas e culturas, com ação, mitologia e muito estilo.",
+      "personagens": [
+        {
+          "nome": "Guerreiros de Wakanda",
+          "imagem": "assets/img/imagensp/guerreiroswakanda.jpg"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "titulo": "Marvel Zombies",
+      "imagem": "assets/img/imagenss/marvelzombies.jpg",
+      "tipo": "Série",
+      "lancamento": "10/2025",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "16 anos",
+      "fase": "Fase 6",
+      "em_breve": false,
+      "sinopse": "Os maiores heróis da Terra foram infectados. O que resta é uma nova geração, liderada por Shuri e Ms. Marvel, tentando sobreviver em um mundo onde os salvadores viraram os monstros. Uma das histórias mais intensas do MCU animado.",
+      "personagens": [
+        {
+          "nome": "Shuri",
+          "imagem": "assets/img/imagensp/shurizombies.jpg"
+        },
+        {
+          "nome": "Kamala Khan",
+          "imagem": "assets/img/imagensp/msmarvelzombies.jpg"
+        },
+        {
+          "nome": "Hulk Zumbi",
+          "imagem": "assets/img/imagensp/hulkzombie.jpg"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "titulo": "Wonder Man",
+      "imagem": "assets/img/imagenss/wonderman.jpg",
+      "tipo": "Série",
+      "lancamento": "01/2026",
+      "duracao": "6 episódios",
+      "plataforma": "Disney+",
+      "classificacao": "12 anos",
+      "fase": "Fase 6",
+      "em_breve": false,
+      "sinopse": "Simon Williams é um ator sem sorte que de repente ganha superpoderes e uma segunda chance de brilhar no mesmo remake de um filme de super-herói que tem seu nome no título. Hollywood nunca foi tão estranha.",
+      "personagens": [
+        {
+          "nome": "Simon Williams",
+          "imagem": "assets/img/imagensp/simonwilliams.jpg"
+        },
+        {
+          "nome": "Trevor Slattery",
+          "imagem": "assets/img/imagensp/trevorslattery.jpg"
+        },
+        {
+          "nome": "Eric Williams",
+          "imagem": "assets/img/imagensp/ericwilliams.jpg"
+        },
+        {
+          "nome": "Neal Saroyan",
+          "imagem": "assets/img/imagensp/nealsaroyan.jpg"
+        }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "321",
+      "nome": "Administrador",
+      "email": "admin@marvel.com",
+      "admin": true
+    },
+    {
+      "login": "user",
+      "senha": "123",
+      "nome": "user",
+      "email": "userteste@email.com",
+      "admin": false,
+      "id": "Eybg5rB"
+    }
+  ],
+  "favoritos": [
+    {
+      "usuarioId": "1",
+      "itemId": 1,
+      "tipo": "Filme",
+      "id": 1
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 5,
+      "tipo": "Filme",
+      "id": 2
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 18,
+      "tipo": "Filme",
+      "id": 3
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 108,
+      "tipo": "Série",
+      "id": 4
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 112,
+      "tipo": "Série",
+      "id": 5
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 4,
+      "tipo": "Filme",
+      "id": 6
+    }
+  ],
+  "avaliacoes": [
+    {
+      "usuarioId": "1",
+      "itemId": 1,
+      "tipo": "Filme",
+      "nota": 4,
+      "id": 1
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 2,
+      "tipo": "Filme",
+      "nota": 3,
+      "id": 2
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 3,
+      "tipo": "Filme",
+      "nota": 2,
+      "id": 3
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 4,
+      "tipo": "Filme",
+      "nota": 5,
+      "id": 4
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 101,
+      "tipo": "Série",
+      "nota": 5,
+      "id": 5
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 102,
+      "tipo": "Série",
+      "nota": 4,
+      "id": 6
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 105,
+      "tipo": "Série",
+      "nota": 3,
+      "id": 7
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 8,
+      "tipo": "Filme",
+      "nota": 5,
+      "id": 13
+    },
+    {
+      "usuarioId": "1",
+      "itemId": 9,
+      "tipo": "Filme",
+      "nota": 1,
+      "id": 14
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
