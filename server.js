@@ -16,7 +16,7 @@ server.use((req, res, next) => {
 server.use(middlewares);
 server.use(router);
 
-server.listen(3000, () => {
+server.listen(process.env.PORT || 3000, () => {
   console.log('');
   console.log('  Marvel Universe rodando!');
   console.log('  Acesse: http://localhost:3000');
